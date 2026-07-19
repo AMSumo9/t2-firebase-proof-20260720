@@ -1,0 +1,17 @@
+{
+  "wheel_id": "host-proof-20260720",
+  "slug": "t2-firebase-proof-20260720",
+  "project": "t2-firebase-proof-20260720",
+  "parent_t1_ref": "host-proof-parent",
+  "node_role": "feeder",
+  "money_target": "sumo9.com",
+  "primary_kw": "Firebase T2 host proof",
+  "intended_url": "https://sumo9-cloudsites-t2.web.app/t2-firebase-proof-20260720/",
+  "links": [
+    {
+      "target_url": "https://sumo9.com/",
+      "anchor": "Visit Sumo",
+      "rel": "follow"
+    }
+  ]
+}
